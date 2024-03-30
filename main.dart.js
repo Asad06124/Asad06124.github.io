@@ -79807,16 +79807,21 @@ q=A.any(!1,new A.Jc(A.td(new A.bT(new A.a6(10,0,0,30),A.rr(A.b([s,r,A.td(A.bn(A.
 m=q}else{m=m<650&&!0
 m=A.any(!0,o,!0,A.td(A.aS(o,o,B.j,o,o,new A.bE(o,A.e9(B.aE,new A.d8(n)),o,o,o,o,B.J),o,60,o,new A.a6(5,5,5,5),o,o,200),m))}return m}}
 A.acA.prototype={
-$0(){A.mc(new A.l3("Green Vision",null))
+$0(){window.location.href="/"
+A.mc(new A.l3("Green Vision",null))
 A.hP($.aX(),"/",t.z)},
 $S:0}
 A.acB.prototype={
-$0(){A.mc(new A.l3("About Green Vision",null))
-A.hP($.aX(),"/about-us",t.z)},
+$0(){var s="/about-us"
+window.location.href=s
+A.mc(new A.l3("About Green Vision",null))
+A.hP($.aX(),s,t.z)},
 $S:0}
 A.acC.prototype={
-$0(){A.mc(new A.l3("Our Solutions",null))
-A.hP($.aX(),"/our-solution",t.z)},
+$0(){var s="/our-solution"
+window.location.href=s
+A.mc(new A.l3("Our Solutions",null))
+A.hP($.aX(),s,t.z)},
 $S:0}
 A.acE.prototype={
 $1(a){},
@@ -79826,12 +79831,16 @@ $1(a){var s=null,r=t.z
 return A.b([A.J9(A.av("Drip Irrigation System",s,s,s,s,s,s),r),A.J9(A.av("Sprinkler Irrigation System",s,s,s,s,s,s),r),A.J9(A.av("Landscaping",s,s,s,s,s,s),r),A.J9(A.av("Irrigation Water Filtration",s,s,s,s,s,s),r),A.J9(A.av("Solar Cleaning Irrigation",s,s,s,s,s,s),r)],t.nm)},
 $S:476}
 A.acF.prototype={
-$0(){A.mc(new A.l3("Product",null))
-A.hP($.aX(),"/products",t.z)},
+$0(){var s="/products"
+window.location.href=s
+A.mc(new A.l3("Product",null))
+A.hP($.aX(),s,t.z)},
 $S:0}
 A.acG.prototype={
-$0(){A.mc(new A.l3("Contact Us",null))
-A.hP($.aX(),"/contact-us",t.z)},
+$0(){var s="/contact-us"
+window.location.href=s
+A.mc(new A.l3("Contact Us",null))
+A.hP($.aX(),s,t.z)},
 $S:0}
 A.XA.prototype={
 $0(){A.qV(this.a,!1).tu(null)},
