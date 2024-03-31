@@ -79799,13 +79799,13 @@ s.aH()}}
 A.jz.prototype={
 ag(){return new A.Nf(new A.bp(null,t.B),B.m)}}
 A.Nf.prototype={
-J(a){var s,r,q,p=this,o=null,n="assets/images/favicon.png",m=A.bh(a,o,t.w).w.a.a,l=m>600&&!0
-if(m>650){s=A.aS(o,o,B.j,o,o,new A.bE(o,A.e9(B.aE,new A.d8(n)),o,o,o,o,B.J),o,60,o,new A.a6(5,5,5,5),o,o,200)
-r=A.bn(o,o,l?3:200)
+J(a){var s,r,q,p=this,o=null,n=A.bh(a,o,t.w).w.a.a,m=n>600&&!0
+if(n>650){s=A.aS(o,o,B.j,o,o,new A.bE(o,A.e9(B.aE,new A.d8("assets/images/main_logo.png")),o,o,o,o,B.J),o,60,o,new A.a6(5,5,5,5),o,o,200)
+r=A.bn(o,o,m?3:200)
 q=t.D
-q=A.any(!1,new A.Jc(A.td(new A.bT(new A.a6(10,0,0,30),A.rr(A.b([s,r,A.td(A.bn(A.rr(A.b([A.ec(!1,!0,new A.fL("Home",o),o,!0,o,o,o,o,o,o,o,o,o,new A.acA(p),o,o,o,o,o),A.ec(!1,!0,new A.fL("About Us",o),o,!0,o,o,o,o,o,o,o,o,o,new A.acB(p),o,o,o,o,o),A.rr(A.b([A.ec(!1,!0,new A.fL("Our Solutions",o),o,!0,o,o,o,o,o,o,o,o,o,new A.acC(p),o,o,o,o,o),new A.r7(new A.acD(),new A.acE(p),A.a1M(B.Cy,o),B.In,p.d,t.q3)],q),B.a2,B.bl,B.N),A.ec(!1,!0,new A.fL("Product",o),o,!0,o,o,o,o,o,o,o,o,o,new A.acF(p),o,o,o,o,o),A.ec(!1,!0,new A.fL("Contact Us",o),o,!0,o,o,o,o,o,o,o,o,o,new A.acG(p),o,o,o,o,o)],q),B.a2,B.cv,B.N),o,m/1.6),!0)],q),B.a2,B.dZ,B.N),o),!0),new A.E(1/0,40),o),o,o)
-m=q}else{m=m<650&&!0
-m=A.any(!0,o,!0,A.td(A.aS(o,o,B.j,o,o,new A.bE(o,A.e9(B.aE,new A.d8(n)),o,o,o,o,B.J),o,60,o,new A.a6(5,5,5,5),o,o,200),m))}return m}}
+q=A.any(!1,new A.Jc(A.td(new A.bT(new A.a6(10,0,0,30),A.rr(A.b([s,r,A.td(A.bn(A.rr(A.b([A.ec(!1,!0,new A.fL("Home",o),o,!0,o,o,o,o,o,o,o,o,o,new A.acA(p),o,o,o,o,o),A.ec(!1,!0,new A.fL("About Us",o),o,!0,o,o,o,o,o,o,o,o,o,new A.acB(p),o,o,o,o,o),A.rr(A.b([A.ec(!1,!0,new A.fL("Our Solutions",o),o,!0,o,o,o,o,o,o,o,o,o,new A.acC(p),o,o,o,o,o),new A.r7(new A.acD(),new A.acE(p),A.a1M(B.Cy,o),B.In,p.d,t.q3)],q),B.a2,B.bl,B.N),A.ec(!1,!0,new A.fL("Product",o),o,!0,o,o,o,o,o,o,o,o,o,new A.acF(p),o,o,o,o,o),A.ec(!1,!0,new A.fL("Contact Us",o),o,!0,o,o,o,o,o,o,o,o,o,new A.acG(p),o,o,o,o,o)],q),B.a2,B.cv,B.N),o,n/1.6),!0)],q),B.a2,B.dZ,B.N),o),!0),new A.E(1/0,40),o),o,o)
+n=q}else{n=n<650&&!0
+n=A.any(!0,o,!0,A.td(A.aS(o,o,B.j,o,o,new A.bE(o,A.e9(B.aE,new A.d8("assets/images/favicon.png")),o,o,o,o,B.J),o,60,o,new A.a6(5,5,5,5),o,o,200),n))}return n}}
 A.acA.prototype={
 $0(){A.mc(new A.l3("Green Vision",null))
 A.hP($.aX(),"/",t.z)},
