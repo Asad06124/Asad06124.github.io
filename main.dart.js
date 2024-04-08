@@ -24543,7 +24543,7 @@ _.b=c
 _.c=null},
 U_:function U_(){},
 FB(a,b){var s,r=null,q=A.bg(a,r,t.w).w,p=t.D
-p=A.b([A.aR(r,new A.Gb(B.z7,A.oB(A.b([A.aR(r,r,B.j,r,r,new A.bD(r,A.e7(B.aE,new A.d4("assets/images/favicon.png")),r,r,r,r,B.J),r,60,r,r,r,r,200),A.a1B(r,r,A.H9(B.Cz,r),r,new A.Xq(a),r,r,r,r)],p),B.a_,B.cR,B.L),r),B.j,B.k,r,r,r,100,r,r,r,r,r),A.al("Main Menu",r,r,r,A.aj(r,r,B.o,r,r,r,r,r,r,r,r,16,r,r,B.iD,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.bm(r,20,r),A.eV(!1,!0,new A.fF("Home",r),r,!0,r,r,r,r,r,r,r,r,r,new A.Xr(),r,r,r,r,r),A.bm(r,10,r),A.eV(!1,!0,new A.fF("About Us",r),r,!0,r,r,r,r,r,r,r,r,r,new A.Xs(),r,r,r,r,r),A.bm(r,10,r),A.oB(A.b([A.eV(!1,!0,new A.fF("Our Solution",r),r,!0,r,r,r,r,r,r,r,r,r,new A.Xt(),r,r,r,r,r),A.apK(A.H9(B.mh,r),new A.Xu(),r,r,B.wh,t.z)],p),B.a_,B.cR,B.L),A.bm(r,10,r),A.eV(!1,!0,new A.fF("Product",r),r,!0,r,r,r,r,r,r,r,r,r,new A.Xv(),r,r,r,r,r),A.bm(r,10,r),A.eV(!1,!0,new A.fF("Contact Us",r),r,!0,r,r,r,r,r,r,r,r,r,new A.Xw(),r,r,r,r,r),A.bm(r,60,r),A.aR(B.B,A.al("\xa9"+A.akU(new A.h0(Date.now(),!1))+u.n,r,r,r,r,r,r),B.j,B.k,r,r,r,100,r,r,r,r,q.a.a)],p)
+p=A.b([A.aR(r,new A.Gb(B.z7,A.oB(A.b([A.aR(r,r,B.j,r,r,new A.bD(r,A.e7(B.aE,new A.d4("assets/images/main_logo.png")),r,r,r,r,B.J),r,60,r,r,r,r,200),A.a1B(r,r,A.H9(B.Cz,r),r,new A.Xq(a),r,r,r,r)],p),B.a_,B.cR,B.L),r),B.j,B.k,r,r,r,100,r,r,r,r,r),A.al("Main Menu",r,r,r,A.aj(r,r,B.o,r,r,r,r,r,r,r,r,16,r,r,B.iD,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.bm(r,20,r),A.eV(!1,!0,new A.fF("Home",r),r,!0,r,r,r,r,r,r,r,r,r,new A.Xr(),r,r,r,r,r),A.bm(r,10,r),A.eV(!1,!0,new A.fF("About Us",r),r,!0,r,r,r,r,r,r,r,r,r,new A.Xs(),r,r,r,r,r),A.bm(r,10,r),A.oB(A.b([A.eV(!1,!0,new A.fF("Our Solution",r),r,!0,r,r,r,r,r,r,r,r,r,new A.Xt(),r,r,r,r,r),A.apK(A.H9(B.mh,r),new A.Xu(),r,r,B.wh,t.z)],p),B.a_,B.cR,B.L),A.bm(r,10,r),A.eV(!1,!0,new A.fF("Product",r),r,!0,r,r,r,r,r,r,r,r,r,new A.Xv(),r,r,r,r,r),A.bm(r,10,r),A.eV(!1,!0,new A.fF("Contact Us",r),r,!0,r,r,r,r,r,r,r,r,r,new A.Xw(),r,r,r,r,r),A.bm(r,60,r),A.aR(B.B,A.al("\xa9"+A.akU(new A.h0(Date.now(),!1))+u.n,r,r,r,r,r,r),B.j,B.k,r,r,r,100,r,r,r,r,q.a.a)],p)
 q=A.aO([null,0],t.LO,t.S)
 s=!0
 s=s?B.kI:r
@@ -79669,13 +79669,13 @@ s.aH()}}
 A.jv.prototype={
 ag(){return new A.N5(new A.bo(null,t.B),B.m)}}
 A.N5.prototype={
-J(a){var s,r,q,p=this,o=null,n=A.bg(a,o,t.w).w.a.a,m=n>600&&!0
-if(n>650){s=A.aR(o,o,B.j,o,o,new A.bD(o,A.e7(B.aE,new A.d4("assets/images/main_logo.png")),o,o,o,o,B.J),o,60,o,new A.a6(5,5,5,5),o,o,200)
-r=A.bm(o,o,m?3:200)
+J(a){var s,r,q,p=this,o=null,n="assets/images/main_logo.png",m=A.bg(a,o,t.w).w.a.a,l=m>600&&!0
+if(m>650){s=A.aR(o,o,B.j,o,o,new A.bD(o,A.e7(B.aE,new A.d4(n)),o,o,o,o,B.J),o,60,o,new A.a6(5,5,5,5),o,o,200)
+r=A.bm(o,o,l?3:200)
 q=t.D
-q=A.anb(!1,new A.J2(A.t2(new A.bS(new A.a6(10,0,0,30),A.oB(A.b([s,r,A.t2(A.bm(A.oB(A.b([A.eV(!1,!0,new A.fF("Home",o),o,!0,o,o,o,o,o,o,o,o,o,new A.aco(p),o,o,o,o,o),A.eV(!1,!0,new A.fF("About Us",o),o,!0,o,o,o,o,o,o,o,o,o,new A.acp(p),o,o,o,o,o),A.oB(A.b([A.eV(!1,!0,new A.fF("Our Solutions",o),o,!0,o,o,o,o,o,o,o,o,o,new A.acq(p),o,o,o,o,o),A.apK(A.H9(B.mh,o),new A.acr(),p.d,new A.acs(p),B.wh,t.z)],q),B.a_,B.bl,B.L),A.eV(!1,!0,new A.fF("Product",o),o,!0,o,o,o,o,o,o,o,o,o,new A.act(p),o,o,o,o,o),A.eV(!1,!0,new A.fF("Contact Us",o),o,!0,o,o,o,o,o,o,o,o,o,new A.acu(p),o,o,o,o,o)],q),B.a_,B.cv,B.L),o,n/1.6),!0)],q),B.a_,B.cR,B.L),o),!0),new A.E(1/0,40),o),o,o)
-n=q}else{n=n<650&&!0
-n=A.anb(!0,o,!0,A.t2(A.aR(o,o,B.j,o,o,new A.bD(o,A.e7(B.aE,new A.d4("assets/images/favicon.png")),o,o,o,o,B.J),o,60,o,new A.a6(5,5,5,5),o,o,200),n))}return n}}
+q=A.anb(!1,new A.J2(A.t2(new A.bS(new A.a6(10,0,0,30),A.oB(A.b([s,r,A.t2(A.bm(A.oB(A.b([A.eV(!1,!0,new A.fF("Home",o),o,!0,o,o,o,o,o,o,o,o,o,new A.aco(p),o,o,o,o,o),A.eV(!1,!0,new A.fF("About Us",o),o,!0,o,o,o,o,o,o,o,o,o,new A.acp(p),o,o,o,o,o),A.oB(A.b([A.eV(!1,!0,new A.fF("Our Solutions",o),o,!0,o,o,o,o,o,o,o,o,o,new A.acq(p),o,o,o,o,o),A.apK(A.H9(B.mh,o),new A.acr(),p.d,new A.acs(p),B.wh,t.z)],q),B.a_,B.bl,B.L),A.eV(!1,!0,new A.fF("Product",o),o,!0,o,o,o,o,o,o,o,o,o,new A.act(p),o,o,o,o,o),A.eV(!1,!0,new A.fF("Contact Us",o),o,!0,o,o,o,o,o,o,o,o,o,new A.acu(p),o,o,o,o,o)],q),B.a_,B.cv,B.L),o,m/1.6),!0)],q),B.a_,B.cR,B.L),o),!0),new A.E(1/0,40),o),o,o)
+m=q}else{m=m<650&&!0
+m=A.anb(!0,o,!0,A.t2(A.aR(o,o,B.j,o,o,new A.bD(o,A.e7(B.aE,new A.d4(n)),o,o,o,o,B.J),o,60,o,new A.a6(5,5,5,5),o,o,200),m))}return m}}
 A.aco.prototype={
 $0(){A.m7(new A.kZ("Green Vision",null))
 A.hN($.aW(),"/",t.z)},
